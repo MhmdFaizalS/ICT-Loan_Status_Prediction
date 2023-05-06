@@ -17,7 +17,7 @@ loan_prediction.py: Python file containing the final code for the project.
 loan_prediction_model.pkl: Saved model using joblib.
 loan_prediction_data.csv: Dataset used for training and testing the model.
 # Running the Code
-To run the code, open the loan_prediction.py file in a Python environment (Jupyter Notebook, Spyder, PyCharm, etc.) and run the code.
+To run the code, open the project_loan_status_prediction.py file in a Python environment (Jupyter Notebook, Spyder, PyCharm, etc.) and run the code.
 
 # Results
 The model was trained using Random Forest algorithm and achieved an accuracy of  98% on the test set.
